@@ -360,7 +360,7 @@ h2{
 	width: 45%;
 	background: #3a75c4;
 	margin-top: 12px;
-	background: url(../img/bottle.jpg);
+	background: url(../img/bottle3.jpg);
 	background-size: 100%;
 	border-radius: 10px;
 }
@@ -956,7 +956,7 @@ left: 915px;
 	width:60px ;
 	position: absolute;
 	left:70px ;
-	top:185px; ;
+	top:190px; ;
 	z-index:0 ;
 	background: brown;
 }
@@ -1124,12 +1124,7 @@ top:335px;
 @keyframes around{
     
     0%{transform: rotate(0deg);
-
     }
-
-     
-     
-
      100%{transform: rotate(1800deg);
 }
 }
