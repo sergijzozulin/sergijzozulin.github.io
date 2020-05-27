@@ -324,7 +324,7 @@ h1{
 	flex-wrap: wrap;
 }
 .opuc{
-	height: 150px;
+	height: 200px;
 	width: 100%;
 	background: #3a75c4;
 	border-radius: 10px;
@@ -365,7 +365,7 @@ h2{
 	border-radius: 10px;
 }
 .conclusion{
-	height: 150px;
+	height: 200px;
 	width: 100%;
 	background: #3a75c4;
 	margin-top: 12px;
